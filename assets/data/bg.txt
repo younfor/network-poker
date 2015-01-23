@@ -1,0 +1,18 @@
+bg.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bgMain
+  rotate: false
+  xy: 2, 2
+  size: 767, 465
+  orig: 767, 465
+  offset: 0, 0
+  index: -1
+bgUi
+  rotate: false
+  xy: 2, 469
+  size: 662, 401
+  orig: 662, 401
+  offset: 0, 0
+  index: -1
